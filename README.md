@@ -1,29 +1,39 @@
-# Raylib-CPP-Starter-Template-for-VSCODE-V2
-Raylib C++ Starter Template for Visual Studio Code on Windows.
-This demo project contains a bouncing ball raylib example program.
-It works with raylib version 5.0. Tested on both Windows 10 and Windows 11.
+# 🚀 Space Invaders: Galactic Defense
 
-# How to use this template
-1. Double click on the main.code-workspace file. This will open the template in VS Code.
-2. From the Explorer Window of VS Code navigate to the src folder and double click on the main.cpp file.
-3. Press F5 on the keyboard to compile and run the program.
+Welcome to **Space Invaders: Galactic Defense**! This is my take on the iconic arcade classic, built using the powerful [Raylib](https://www.raylib.com) library. Dive into the action and protect Earth from the alien menace!
 
-# What's changed
-The template now uses folders for better organizion of the files. So, all the source code now lives in the src folder.
+## 🌌 Project Overview
 
-# Video Tutorial
+In **Space Invaders: Galactic Defense**, you'll pilot a lone spaceship tasked with defending our planet from waves of alien invaders. With simple controls and addictive gameplay, this project captures the essence of the retro arcade experience.
 
-<p align="center">
-  <img src="preview.jpg" alt="" width="800">
-</p>
+### 🔥 Key Features
+- **Authentic Retro Gameplay**: Experience the thrill of shooting down alien invaders and avoiding their attacks.
+- **Dynamic Scoring**: Rack up points as you blast through waves of enemies.
+- **Progressive Difficulty**: Face increasingly challenging waves as you advance through the levels.
+- **Smooth Controls**: Intuitive spaceship movement and firing mechanics for a seamless experience.
 
-<p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
-</p>
+## 🎮 About Raylib
 
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="http://www.educ8s.tv">My Website</a> | <br>
-</p>
+[Raylib](https://www.raylib.com) is a versatile C library designed for game development and multimedia applications. It offers a straightforward and powerful API, perfect for creating 2D games and interactive experiences.
+
+### 🚀 Why Raylib?
+- **Cross-Platform**: Build games that run on Windows, macOS, and Linux without hassle.
+- **User-Friendly API**: Easy-to-use functions for handling graphics, audio, and input.
+- **Excellent Documentation**: Comprehensive guides and examples to get you up and running quickly.
+
+## 🛠️ Getting Started
+
+Ready to dive in? Follow these steps to set up and play **Space Invaders: Galactic Defense**:
+
+### 📋 Prerequisites
+- [Raylib](https://www.raylib.com) installed on your machine.
+- A compatible C/C++ compiler.
+
+### 🚀 Installation
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/codewithadi/space-invaders.git
+cd space-invaders
+./space_invaders
+
+This version removes any mention of high scores and focuses on the core aspects of the game and its development.
